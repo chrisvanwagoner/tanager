@@ -1,5 +1,5 @@
 # tanager  
-A colorful and quiet command line color scheme  
+A command line color scheme based on the colors of the [green-headed tanager](https://en.wikipedia.org/wiki/Green-headed_tanager).  
 
 | Name   	     | Hex     |
 | -------------- | ------- | 
@@ -24,3 +24,4 @@ A colorful and quiet command line color scheme
 | Bright Cyan    | # |
 | White          | # |
 | Bright White   | # |
+
