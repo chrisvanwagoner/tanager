@@ -1,3 +1,3 @@
 ```
-#0E2A32,#0043FF,#00B0C9,#FFFEFE,#0043FF,#DED8D2,#00DA56,#FF006A
+#0c2229,#315ede,#32b1d1,#fffefe,#315ede,#eae6e2,#1fb63b,#f2532d
 ```
